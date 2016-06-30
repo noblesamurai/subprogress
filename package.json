@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/timothyleslieallen/subprogress"
+    "url": "https://github.com/noblesamurai/subprogress"
   },
   "keywords": ["progress","aggregate","subtasks"],
   "author": "Tim Allen <tim@noblesamurai.com>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/timothyleslieallen/subprogress/issues"
+    "url": "https://github.com/noblesamurai/subprogress/issues"
   },
   "dependencies": {},
   "devDependencies": {
