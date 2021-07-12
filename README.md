@@ -4,11 +4,18 @@ Progress aggregator for weighted sub-tasks.
 
 [![build status](https://secure.travis-ci.org/timothyleslieallen/subprogress.png)](http://travis-ci.org/timothyleslieallen/subprogress)
 
+## Prerequisites
+
+```
+$ pip install pre-commit
+```
+
 ## Installation
 
 This module is installed via npm:
 
 ``` bash
+$ pre-commit install --install-hooks
 $ npm install subprogress
 ```
 
